@@ -1,0 +1,1 @@
+docker run -d --name mailserver --hostname mail.drsrv.net.ar --env-file d:\Email-server\mailserver.env \
